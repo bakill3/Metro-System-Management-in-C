@@ -1,4 +1,5 @@
 # Metro System Management
+![Metro-System-Management-in-C](https://socialify.git.ci/bakill3/Metro-System-Management-in-C/image?font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Light)
 # 1. Introduction
 The company that manages the Metro Mondego mobility system wants a program that manages the various existing lines. This program should keep updated information about the lines that make up the system and suggest routes between 2 stops.
 
